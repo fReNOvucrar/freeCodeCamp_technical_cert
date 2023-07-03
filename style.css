@@ -1,0 +1,11 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  @media (width: 600px) {
+    body {
+      width: 100%;
+    }
+  }
+  
+  
